@@ -22,6 +22,11 @@ I aim to develop Human-Centered AI using machine learning and reinforcement lear
 
 <font face="Cambria Math" color=black size=2> Minhua Lin, **Teng Xiao**, Enyan Dai, Xiang Zhang, Suhang Wang. Certifiably Robust Graph Contrastive Learning. <b>*NeurIPS 2023*</b>. </font>
 
+
+<font face="Cambria Math" color=black size=2> **Teng Xiao**, Zhengyu Chen, Suhang Wang. Reconsidering Learning Objectives in Unbiased Learning with Unobserved Confounders. <b>*KDD 2023*</b>. </font>
+
+<font face="Cambria Math" color=black size=2> **Teng Xiao**, Suhang Wang. Towards Off-Policy Reinforcement Learning for Ranking Policies with Logged Feedback. <b>*AAAI 2022*</b>. </font>
+
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Zhengyu Chen, Zhimeng Guo, Zeyang Zhuang, Suhang Wang. Decoupled Self-supervised Learning for Graphs. <b>*NeurIPS 2022*</b>. </font>
 
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Donglin Wang. A General Offline Reinforcement Learning Framework for Interactive Recommendation. <b>*AAAI 2021*</b>. </font>
