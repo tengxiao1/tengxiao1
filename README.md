@@ -5,6 +5,8 @@
 ### <font face="Cambria Math" color=black size=6>Research Interests</font>
 I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such as  information \& social systems, language model alignment and scientific discovery.
 
+---
+
 ### <font face="Cambria Math" color=black size=6>Selected Publications</font> ([Full List](https://scholar.google.com.hk/citations?user=ld3OKXwAAAAJ&hl=en&newwindow=1))
 
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Yige Yuan, Huaisheng Zhu, Mingxiao Li, Vasant G Honavar. Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment. <b>*NeurIPS 2024*</b>. </font>
