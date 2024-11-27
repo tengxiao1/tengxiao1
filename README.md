@@ -1,4 +1,4 @@
-<font face="Cambria Math" color=black size=4> I am Teng Xiao, a fourth-year Ph.D. student at <a href="https://ist.psu.edu/" style="text-decoration:none; color:blue;">The Pennsylvania State University</a>. My advisor is <a href="https://honavar.com" style="text-decoration:none; color:blue;">Prof. Vasant Honavar</a>.</font>
+<font face="Cambria Math" color=black size=4> I am Teng Xiao, a fourth-year Ph.D. student at <a href="https://ist.psu.edu/" style="text-decoration:none; color:blue;">The Pennsylvania State University</a>. My advisor is <a href="https://faculty.ist.psu.edu/vhonavar/" style="text-decoration:none; color:blue;">Prof. Vasant Honavar</a>.</font>
 
 ---
 
