@@ -21,8 +21,10 @@ I aim to develop Human-Centered AI using machine learning and reinforcement lear
 
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Zhengyu Chen, Zhimeng Guo, Zeyang Zhuang, Suhang Wang. Decoupled Self-supervised Learning for Graphs. <b>*NeurIPS 2022*</b>. </font>
 
+<font face="Cambria Math" color=black size=2> **Teng Xiao**, Donglin Wang. A General Offline Reinforcement Learning Framework for Interactive Recommendation. <b>*AAAI 2021*</b>. </font>
+
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Zhengyu Chen, Donglin Wang, Suhang Wang. Learning How to Propagate Messages in Graph Neural Networks. <b>*KDD 2021*</b>. </font>
 
-<font face="Cambria Math" color=black size=2> **Teng Xiao**, Donglin Wang. A General Offline Reinforcement Learning Framework for Interactive Recommendation. <b>*AAAI 2021*</b>. </font>
+
 
 
