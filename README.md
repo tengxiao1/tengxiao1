@@ -13,9 +13,10 @@ I aim to develop Human-Centered AI using machine learning and reinforcement lear
 
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Mingxiao Li, Yige Yuan, Huaisheng Zhu, Chao Cui, Vasant G Honavar. How to Leverage Demonstration Data in Alignment for Large Language Model? A Self-Imitation Learning Perspective. <b>*EMNLP 2024*</b>. </font>
 
+<font face="Cambria Math" color=black size=2> Huaisheng Zhu, **Teng Xiao**, Vasant G Honavar. 3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs. <b>*COLM 2024*</b>. </font>
+
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Huaisheng Zhu, Zhiwei Zhang, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar. Efficient Contrastive Learning for Fast and Accurate Inference on Graphs. <b>*ICML 2024*</b>. </font>
 
-<font face="Cambria Math" color=black size=2> Huaisheng Zhu, **Teng Xiao**, Vasant G Honavar. 3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs. <b>*COLM 2024*</b>. </font>
 
 <font face="Cambria Math" color=black size=2> **Teng Xiao**, Huaisheng Zhu, Zhengyu Chen, Suhang Wang. Simple and Asymmetric Graph Contrastive Learning without Augmentations. <b>*NeurIPS 2023*</b>. </font>
 
