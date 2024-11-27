@@ -3,7 +3,7 @@
 ---
 
 ### <font face="Cambria Math" color=black size=6>Research Interests</font>
-My research aims to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such as  information \& social systems, language model alignment and scientific discovery.
+I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such as  information \& social systems, language model alignment and scientific discovery.
 
 ### <font face="Cambria Math" color=black size=6>Selected Publications</font> ([Full List](https://scholar.google.com.hk/citations?user=ld3OKXwAAAAJ&hl=en&newwindow=1))
 
