@@ -1,9 +1,10 @@
-<font face="Cambria Math" color=black size=4> I am a fourth-year Ph.D. student at <a href="https://ist.psu.edu/" style="text-decoration:none; color:blue;">The Pennsylvania State University</a>. My advisor is <a href="https://faculty.ist.psu.edu/vhonavar/" style="text-decoration:none; color:blue;">Prof. Vasant Honavar</a>.</font> 
+<font face="Cambria Math" color=black size=4> I am a fourth-year Ph.D. student at <a href="https://ist.psu.edu/" style="text-decoration:none; color:blue;">The Pennsylvania State University</a>.  Email: tengxiao@psu.edu. My advisor is <a href="https://faculty.ist.psu.edu/vhonavar/" style="text-decoration:none; color:blue;">Prof. Vasant Honavar</a>.</font>  
+
 
 ---
 
 ### <font face="Cambria Math" color=black size=6>Research Interests</font>
-I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such as  information \& social systems, language model alignment and scientific discovery.
+I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such as information and social systems, language model alignment, and scientific discovery. Currently, I am working on LLM post-training, alignment, reasoning, and their applications in scientific domains.
 
 ---
 
