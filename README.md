@@ -6,7 +6,7 @@ My advisor: <a href="https://faculty.ist.psu.edu/vhonavar/" style="text-decorati
 ---
 
 ### <font face="Cambria Math" color=black size=6>Research Interests</font>
-I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such  social systems, language model alignment, and scientific discovery. Currently, I am working on LLM post-training, alignment with human preference, reasoning, and their applications in scientific biology domains.
+I aim to develop Human-Centered AI using machine learning and reinforcement learning to enhance human decision-making and model trustworthiness in applications such  social systems, large language model alignment, and scientific discovery. Currently, I am working on LLM post-training, alignment with human preference, reasoning, and their applications in scientific biology domains.
 
 ---
 
